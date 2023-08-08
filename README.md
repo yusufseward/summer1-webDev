@@ -80,7 +80,7 @@ Answer:
 <br /><br /><br />
 
 ## HTML Elemental Components:
-###  Know what each of these elements are and examples of them
+#####  Know what each of these elements are and examples of them
 
 ###  Text Elements (p, headings, anchor, etc.)
 Answer:
