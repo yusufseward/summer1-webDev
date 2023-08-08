@@ -13,6 +13,7 @@
 
 
 
+<br /><br /><br />
 
 ## BASIC CONCEPTS 
 
@@ -76,9 +77,7 @@ Answer:
 Answer:
 
 
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 ## HTML Elemental Components:
 ###  Know what each of these elements are and examples of them
