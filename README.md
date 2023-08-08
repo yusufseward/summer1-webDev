@@ -1,7 +1,6 @@
 ##### ReadME Cheat Sheet: https://dev.to/imluka/the-only-markdown-cheatsheet-you-will-ever-need-ccg
 
 ## To Do
----
 - [ ] Watch Videos & Update Concepts
 - [ ] Install Extensions
 - [ ] 01 - Welcome: First Webpage --> Push To GitHub 
@@ -16,7 +15,7 @@
 
 
 ## BASIC CONCEPTS 
----
+
 ### Front-End Vs. Back-End Web Development
 Answer:
 
