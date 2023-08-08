@@ -1,6 +1,6 @@
-##### ReadME Cheat Sheet: https://gist.github.com/stevenyap/7038119
+##### ReadME Cheat Sheet: https://dev.to/imluka/the-only-markdown-cheatsheet-you-will-ever-need-ccg
 
-## To Do##
+## To Do
 ---
 - [ ] Watch Videos & Update Concepts
 - [ ] Install Extensions
@@ -15,7 +15,7 @@
 
 
 
-## BASIC CONCEPTS 
+## <u>BASIC CONCEPTS</u>
 ### Front-End Vs. Back-End Web Development
 Answer:
 
@@ -78,7 +78,7 @@ Answer:
 
 
 
-## HTML Elemental Components:#######
+## HTML Elemental Components:
 ###  Know what each of these elements are and examples of them
 
 ###  Text Elements (p, headings, anchor, etc.)
