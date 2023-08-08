@@ -1,7 +1,18 @@
-##### ReadME Cheat Sheet: https://levelup.gitconnected.com/github-readme-cheatsheet-617dff61fa23
+##### ReadME Cheat Sheet: https://gist.github.com/stevenyap/7038119
+
 ## To Do##
-- [] Watch Videos & Update Concepts
-- [] 
+---
+- [ ] Watch Videos & Update Concepts
+- [ ] Install Extensions
+- [ ] 01 - Welcome: First Webpage --> Push To GitHub 
+
+
+#### Extensions To Install:
+- [ ] Prettier
+- [ ] One Monokai Theme
+
+
+
 
 
 ## BASIC CONCEPTS 
