@@ -1,7 +1,7 @@
 ##### ReadME Cheat Sheet: https://dev.to/imluka/the-only-markdown-cheatsheet-you-will-ever-need-ccg
 
 ## To Do
-- [ ] Watch Videos & Update Concepts
+- [ ] Watch All Videos & Update Concepts
 - [ ] Install Extensions
 - [ ] 01 - Welcome: First Webpage --> Push To GitHub 
 
@@ -13,8 +13,8 @@
 
 
 
-<br /><br /><br />
 
+<br /><br /><br />
 ## BASIC CONCEPTS 
 
 ### Front-End Vs. Back-End Web Development
@@ -77,8 +77,8 @@ Answer:
 Answer:
 
 
-<br /><br /><br />
 
+<br /><br /><br />
 ## HTML Elemental Components:
 ####  Know what each of these elements are and examples of them
 
